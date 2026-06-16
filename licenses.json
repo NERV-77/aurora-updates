@@ -1,0 +1,18 @@
+{
+  "licenses": [
+    {
+      "key": "AURORA-TEST-1111",
+      "owner": "Max",
+      "plan": "test",
+      "active": true,
+      "expires": "2027-01-01"
+    },
+    {
+      "key": "AURORA-FRIEND-2222",
+      "owner": "Friend",
+      "plan": "test",
+      "active": true,
+      "expires": "2027-01-01"
+    }
+  ]
+}
