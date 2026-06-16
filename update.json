@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.3.0",
+  "latest_version": "1.5.0",
   "download_url": "PASTE_RELEASE_ZIP_LINK_HERE",
   "sha256": "",
   "required_restart": true,
-  "notes": "Первая тестовая версия автообновления Aurora PC Assistant."
+  "notes": "Aurora PC Assistant v1.5: тестовая проверка лицензии, офлайн-доступ 1 день."
 }
