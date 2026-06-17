@@ -1,7 +1,7 @@
 {
   "latest_version": "1.5.0",
-  "download_url": "PASTE_RELEASE_ZIP_LINK_HERE",
+  "download_url": "https://github.com/NERV-77/aurora-updates/releases/download/v1.6.0/Aurora_PC_Assistant_v1_6_0_PUBLIC.zip",
   "sha256": "",
   "required_restart": true,
-  "notes": "Aurora PC Assistant v1.5: тестовая проверка лицензии, офлайн-доступ 1 день."
+  "notes": "Aurora PC Assistant v1.6.0: добавлены цепочки команд, создание документа с текстом одной командой, копирование и перемещение файлов между папками."
 }
