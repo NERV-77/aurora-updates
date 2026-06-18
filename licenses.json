@@ -4,7 +4,7 @@
       "key": "AURORA-FRIEND-2222",
       "owner": "Friend",
       "plan": "test",
-      "active": true,
+      "active": false,
       "expires": "2027-01-01",
       "allowed_devices": [
         "ANY"
